@@ -1,0 +1,4 @@
+Finalizada noGen.h;
+validada a ideia de utilizar defines para agilizar declaracao de templates (testeDefineCmTemplate);
+validado o uso de includes de classes fora da pasta do arquivo .cpp que realiza a inclusao;
+validada a compilacao de files em diferentes pastas atraves do uso de paths relativos ou totais;

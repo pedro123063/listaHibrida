@@ -1,0 +1,3 @@
+reescrever listaGen.cpp
+testar e validar listaGen
+fazer avaliação de performance da listaGen
