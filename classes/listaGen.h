@@ -13,8 +13,8 @@ class listaGen
         noGen<T>* first;
         int n;
         
-        bool verifPos(int k); 
-        noGen<T>* goNoK(int k);      
+        bool verifPos(int k);           //ok
+        noGen<T>* goNoK(int k);     //ok   
        
     
     public: 
@@ -44,7 +44,7 @@ class listaGen
             }
         }
 
-        void insertK(noGen<T> *ins , int k);        
+        void insertK(noGen<T> *ins , int k);       //ok 
         void insertK(T info,int k);                        
 
         
@@ -52,6 +52,6 @@ class listaGen
 
         T getInfo(int k);                          
 
-        int getN(){return n;}              
+        int getN(){return n;}              //ok
 };
 #endif

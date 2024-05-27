@@ -1,2 +1,0 @@
-PATH: C:\Users\Pedro\ProgramasdoPedro\AprendendoCplusplus\classes_genericas
-TESTE LISTA GEN: g++ -o teste.exe testeListaGen.cpp noGen.cpp listaGen.cpp
